@@ -1,3 +1,6 @@
+# 在线简历
+来自youtube视频的在线简历，目前还没有完成
+- 用作练习和展示
 # Responsive Resume Cv Smith
 ## [Watch it on youtube]()
 ### Responsive Resume Cv Smith
